@@ -1,4 +1,6 @@
-
+// Insert sort program takes an array of strings and sorts them in ascending order. 
+// this program also takes in an array of ints and sorts them in ascending order.
+// in the future i should work with Generic to have my methods print and sort an array of many types.
 
 package inserSort;
 
